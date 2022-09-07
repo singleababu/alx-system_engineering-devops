@@ -1,0 +1,9 @@
+#!/bin/bash
+alias ls,"rm'"
+^c
+root@9f0841227901:/alx-system_engineering-devops/0x03-shell_variables_expansions#
+root@9f0841227901:/alx-system_engineering-devops/0x03-shell_va
+
+riables_expansions# chmod u+x 0-alias
+ls
+clear
