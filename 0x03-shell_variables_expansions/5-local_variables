@@ -1,4 +1,2 @@
-#!bin/bash
+#!/bin/bash
 set | less
-root@9f0841227901:/alx-system_engineering-devops/0x03-shell_variables_expansions# chmod u+x 5-local_variables
-ls
